@@ -1,0 +1,9 @@
+R(T1, A)
+R(T2, B)
+R(T3, C)
+W(T1, B, Eevee)
+R(T1, D)
+W(T2, B, Pikachu)
+C1
+C2
+C3

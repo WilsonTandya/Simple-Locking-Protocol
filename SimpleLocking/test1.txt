@@ -1,0 +1,9 @@
+R(T1, A)
+R(T2, B)
+R(T3, C)
+W(T1, A, Arceus)
+W(T2, B, Pikachu)
+W(T3, C, Darkrai)
+C1
+C2
+C3
